@@ -1,0 +1,107 @@
+.transisi{
+    transition: 1s;
+}  
+
+.navigation{
+    margin-top: -10px;
+}
+
+.margin-right{
+    margin-right: 15px;
+}
+
+.margin-left{
+    margin-left: 55px;
+}
+
+.main{
+    margin-top: 75px;
+}
+
+.name{
+    font-family: 'Grand Hotel', cursive;
+    letter-spacing: 0.1em;
+}
+
+.footer-name{
+    font-family: 'Happy Monkey', cursive;
+}
+
+.background{
+    background-image: url('pict/unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.size{
+    width: 30px;
+    height: 30px;
+    opacity: 0.5;
+}
+
+.size:hover{
+    opacity: 1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 3px;
+    border: 1px solid gray;
+    padding: 3px;
+}
+
+.size:active{
+    opacity: 1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 3px;
+    border: 1px solid;
+    padding: 3px;
+}
+
+.width{
+    border-radius: 15px;
+    background-color: none;
+}
+
+.hover:hover{
+    opacity:0.5;
+}
+
+.down{
+    color: white;
+}
+
+.down:hover{    
+    color: black;
+}
+
+.html{
+    border: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.logo-php{
+    width: 70px;
+    height: 50px;
+}
+
+.logo-tailwind{
+    width: 100px;
+    height: 50px;
+}
+
+.border-html:hover{
+    background-image: linear-gradient(to right, yellow , red);
+    color: white;
+    border: none;
+}
+
+.text-bottom{
+    font-size: x-small;
+}
